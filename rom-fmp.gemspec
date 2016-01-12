@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   # See http://guides.rubygems.org/patterns/ for constraint rules.
 
-  spec.add_runtime_dependency "rom", "~> 0.9"
+  spec.add_runtime_dependency "rom", "~> 1.0"
   spec.add_runtime_dependency "ginjo-rfm", ">= 3.0.11", "~> 3.0"  
   spec.add_runtime_dependency "charlatan", "~> 0.1"
 
